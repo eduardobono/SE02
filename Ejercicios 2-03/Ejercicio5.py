@@ -20,20 +20,16 @@ D = 8
 
 
 print("El valor inicial de las variables es:")
-print("A = ", A, ", B = ", B, ", C = ", C, ", D = ", D)
-print('')
+print("A = ", A, ", B = ", B, ", C = ", C, ", D = ", D, "\n")
 
 B = C
-print("B toma el valor de C, el valor de B ahora es: ", B)
-print('')
+print("B toma el valor de C, el valor de B ahora es: ", B, "\n")
 
 C = A
-print("C toma el valor de A, el valor de C ahora es: ", C)
-print('')
+print("C toma el valor de A, el valor de C ahora es: ", C, "\n")
 
 A = D
-print("A toma el valor de D, el valor de A ahora es: ", A)
-print('')
+print("A toma el valor de D, el valor de A ahora es: ", A, "\n")
 
 D = B
 print("D toma el valor de B, el valor de D ahora es: ", D)
