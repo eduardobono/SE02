@@ -20,8 +20,7 @@ mod = a % b
 # FUNCIONES
 
 print("la variable a tiene un valor de: ", a)
-print("la variable b tiene un valor de: ", b)
-print('')
+print("la variable b tiene un valor de: ", b, "\n")
 print("la suma de a y b  es: ", suma)
 print("la resta de a y b es: ", resta)
 print("la multiplicación de a y b es: ", multi)
